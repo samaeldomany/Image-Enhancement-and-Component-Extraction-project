@@ -3,7 +3,7 @@ Image Enhancement and Component Extraction that explores image processing techni
 
 ## Overview
 
-The goal of this project is to enhance the quality of poor images and extract meaningful components like geometric shapes (e.g., circles) from them. The work is structured as a Jupyter Notebook and includes visual demonstrations for each processing task.
+The goal of this project is to enhance the quality of poor images and extract meaningful components like geometric shapes from them. The work is structured as a Jupyter Notebook and includes visual demonstrations for each processing task.
 
 
 ## Features
