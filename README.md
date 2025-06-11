@@ -17,7 +17,7 @@ The goal of this project is to enhance the quality of poor images and extract me
 
 - Applies sharpening filters and kernel convolutions to correct motion blur and out-of-focus effects.
 
-### 🔇 3. Noise Removal
+###  3. Noise Removal
 
 Denoising techniques applied to a noisy text image:
 - **Median Filtering**
